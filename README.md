@@ -31,13 +31,13 @@ A full-stack web application that allows users to register, log in, post adverti
 ## Screenshots
 
 ### Home Page
-![Home Page](./Screenshot 2026-06-09%20204612.png)
+![Home Page](./Screenshot%202026-06-09%20204612.png)
 
 ### Login Page
-![Login Page](./Screenshot 2026-06-09%20204635.png)
+![Login Page](./Screenshot%202026-06-09%20204635.png)
 
 ### Post Advertisement
-![Post Ad](./Screenshot 2026-06-09%20204655.png)
+![Post Ad](./Screenshot%202026-06-09%20204655.png)
 
 ### Buyer Page
-![Buyer Page](./Screenshot 2026-06-09%20204733.png)
+![Buyer Page](./Screenshot%202026-06-09%20204733.png)
