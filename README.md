@@ -31,13 +31,13 @@ A full-stack web application that allows users to register, log in, post adverti
 ## Screenshots
 
 ### Home Page
-![Home Page]"C:\Users\swaru\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-06-09 204612.png"
+![Home Page]"Screenshot 2026-06-09 204612.png"
 
 ### Login Page
-![Login Page](screenshots/login.png)
-
-### Register Page
-![Register Page](screenshots/register.png)
+![Login Page]"Screenshot 2026-06-09 204635.png"
 
 ### Post Advertisement
-![Post Ad](screenshots/post-ad.png)
+![Post Ad]"Screenshot 2026-06-09 204655.png"
+
+### Buyer Page
+![Register Page]"Screenshot 2026-06-09 204733.png"
