@@ -27,5 +27,17 @@ A full-stack web application that allows users to register, log in, post adverti
 - JWT Authentication
 - bcrypt
 - Multer
+  
+## Screenshots
 
-## Project Structure
+### Home Page
+![Home Page]"C:\Users\swaru\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-06-09 204612.png"
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Register Page
+![Register Page](screenshots/register.png)
+
+### Post Advertisement
+![Post Ad](screenshots/post-ad.png)
